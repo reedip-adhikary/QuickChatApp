@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746601307451",
+    "project_id": "qhuicktext",
+    "storage_bucket": "qhuicktext.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746601307451:android:6bf0e4e09fe9ac761d2b1e",
+        "android_client_info": {
+          "package_name": "com.appone.quicktext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746601307451-0khgvrlav8ftb8a6lb9mth5699a44uin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn_6sStQ3FtNQOnGgFrHNIRQPA93e1hx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746601307451-0khgvrlav8ftb8a6lb9mth5699a44uin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
